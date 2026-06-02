@@ -1,4 +1,4 @@
-[AnonimoChat.html](https://github.com/user-attachments/files/28523042/AnonimoChat.html)
+[AnonimoChat.html](https://github.com/user-attachments/files/28523572/AnonimoChat.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
